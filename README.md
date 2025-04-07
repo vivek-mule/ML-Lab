@@ -75,7 +75,7 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/ML-Lab.git
+   git clone https://github.com/vivek-mule/ML-Lab.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash

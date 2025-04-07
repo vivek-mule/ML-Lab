@@ -6,16 +6,14 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
 
 ## Repository Structure
 
-- **Practical 1 – Introduction to Pandas**  
-  - **Objective:** Demonstrate basic data manipulation and cleaning techniques using Pandas.  
+- **Practical 1 –
   - **Key Tasks:**  
     - Reading data from various formats (CSV, Excel)  
     - Inspecting dataset shape, data types, and missing values  
     - Performing indexing, sorting, and data type conversions  
   - **Dataset:** *Customers.csv*  
 
-- **Practical 2 – Exploratory Data Analysis (EDA) & Classification Model**  
-  - **Objective:** Perform EDA to extract summary statistics and visualize data distributions, then build a classification model.  
+- **Practical 2 –
   - **Key Tasks:**  
     - Computing summary statistics (mean, standard deviation, percentiles, etc.)  
     - Creating histograms and other visualizations to detect patterns and outliers  
@@ -24,8 +22,7 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
     - Evaluating the model using metrics like accuracy, precision, and recall
   - **Dataset:** *Customers.csv*  
 
-- **Practical 3 – Customer Response Prediction using SVM**  
-  - **Objective:** Predict customer responses for special offers at a cosmetics shop using Support Vector Machines (SVM).  
+- **Practical 3 –
   - **Key Tasks:**  
     - Loading and exploring the cosmetics shop dataset  
     - Preprocessing data including handling categorical features and normalization  
@@ -33,16 +30,14 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
     - Understanding the working of SVM through hyperplane optimization and kernel trick
   - **Dataset:** *Customers.csv*  
 
-- **Practical 4 – ML Model for Customer Response Prediction**  
-  - **Objective:** Apply a machine learning algorithm to predict customer responses, generate a confusion matrix, and compute performance metrics such as Accuracy, Precision, Recall, and F1-Score.  
+- **Practical 4 –
   - **Key Tasks:**  
     - Data pre-processing and model training  
     - Prediction and evaluation using a confusion matrix  
     - Calculation of key classification metrics  
   - **Dataset:** *admission.csv*  
 
-- **Practical 6 – Temperature Prediction using Linear Regression**  
-  - **Objective:** Utilize Linear Regression to forecast month-wise temperature trends.  
+- **Practical 6 –
   - **Key Tasks:**  
     - Data cleaning and splitting (into training and testing sets)  
     - Building and training a linear regression model  
@@ -50,8 +45,7 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
     - Visualizing the regression line alongside actual temperature values
   - **Dataset:** *temperatures.csv*  
 
-- **Practical 7 – Admission Prediction using Decision Tree Classifier**  
-  - **Objective:** Predict student admissions based on academic performance using a Decision Tree Classifier.  
+- **Practical 7 –
   - **Key Tasks:**  
     - Data pre-processing including handling missing values, normalization, and label encoding  
     - Splitting the dataset (Admission_Predict.csv) into training and testing sets  
@@ -67,7 +61,8 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
 - **Development Environments:**  
   - Google Colab  
   - Visual Studio Code
-- **Key Libraries & Packages:**  
+  - JupyterLab (Anaconda)
+- **Libraries & Packages:**  
   - Pandas  
   - NumPy  
   - Matplotlib  

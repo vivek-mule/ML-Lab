@@ -75,14 +75,14 @@ This repository contains all the assignments (from Practical 1 to Practical 7) c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/ML-Practical-Labs.git
+   git clone https://github.com/your_username/ML-Lab.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd ML-Practical-Labs
+   cd ML-Lab
    ```
 3. **Open and Run the Notebooks/Files:**
-   - Each practical is contained in a Jupyter Notebook or Python script. Open the desired file in your preferred environment, install the libraries and run the code.
+   - Each practical is written in a Jupyter Notebook. Open the desired file in your preferred environment, install the libraries and run the code.
 
 ---
 
